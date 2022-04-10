@@ -1,6 +1,6 @@
-public interface Funcoes {
+package Funcoes;
 
-    public abstract void buscar(int CodigoProduto);
-    public abstract void listar();
+public interface funcao {
+    public  Object venda(double p1, int p2);
 
 }
